@@ -1,0 +1,35 @@
+[
+{
+    "name": "Adeola Daniel",
+    "img":"user.jpeg",
+    "rating": 7
+},
+
+{
+    "name": "John Doe",
+    "img":"user1.jpeg",
+
+    "rating": 4
+},
+
+{
+    "name": "Maya Stones",
+    "img":"user2.jpeg",
+
+    "rating": 6
+},
+
+{
+    "name": "Jet Philips",
+    "img":"user3.jpeg",
+
+    "rating": 7
+},
+
+{
+    "name": " Sandra Miller",
+    "img":"user1.jpeg",
+
+    "rating": 5
+}
+]
